@@ -1,0 +1,26 @@
+{
+  "name": "rehau",
+  "version": "1.0.0",
+  "description": "project jn Next.js for Rehau",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build", 
+    "start": "next start -p $PORT"
+  },
+  "keywords": [
+    "окна",
+    "рехау"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2"
+  }
+}
+ 
